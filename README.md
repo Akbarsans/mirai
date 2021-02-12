@@ -1,4 +1,4 @@
-# wabot-aq
+# mirai
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
